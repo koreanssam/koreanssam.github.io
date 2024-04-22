@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: 이성원 # add your name
-author-img: assets/img/[크기변환]증명사진2.jpg # add your photo
+author-img: [크기변환]증명사진2.jpg # add your photo
 about-author: AI에 관심이 많은 개발하는 국어 교사 이성원입니다.  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
