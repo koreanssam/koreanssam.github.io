@@ -1,17 +1,16 @@
-title: Hello, world! I'm David Freeman
+title: Hello, world! I'm Koreanssam
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  교육과 AI를 중심으로 한 교사 이성원의 블로그입니다.
+  교육에 관련된 다양한 주제와 AI 기술을 활용한 교육에 대한 내용을 다룰 예정이니 많은 관심 부탁드립니다.
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bolg" # the subpath of your site, e.g. /blog
+url: "https://koreanssam.kr" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
+author: 이성원 # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author: AI에 관심이 많은 개발하는 국어 교사 이성원입니다.  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
